@@ -1,4 +1,4 @@
-Assignment #3: Implementation (programs) of recognizing KEYWORDS (if-then-else), IDENTIFIERS, NUMBERS for C using LEX (or FLEX).
+## Assignment #3: Implementation (programs) of recognizing KEYWORDS (if-then-else), IDENTIFIERS, NUMBERS for C using LEX (or FLEX).
 
 
 Command-Line Operations-
