@@ -3,9 +3,7 @@ Assignment #3: Implementation (programs) of recognizing KEYWORDS (if-then-else),
 
 Command-Line Operations-
 ```
-flex flex_script.l    (outputs  lex.yy.c)
-
+flex flex_script.l
 cc lex.yy.c -lfl
-
-./a.out
+./a.out < test.c
 ```
