@@ -4,7 +4,7 @@ import string
 import re
 
 def valid_id(id):
-	print(id)
+	#print(id)
 	if( not id[0].isalpha() and id[0]!='_'):
 		return(False)
 	for i in id:
@@ -67,7 +67,7 @@ def parser(exp):
 	
 	exp=exp.split("$")
 	exp=[i for i in exp if i!='$' and i!='']
-	print(exp)
+	#print(exp)
 	return(E(exp))
 
 
